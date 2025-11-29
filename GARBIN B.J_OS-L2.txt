@@ -1,0 +1,81 @@
+﻿Microsoft Windows [Version 10.0.26100.4946]
+(c) Microsoft Corporation. All rights reserved.
+
+
+C:\Users\Acer>CD DOWNLOADS
+
+
+C:\Users\Acer\Downloads>CD OS-L2
+
+
+C:\Users\Acer\Downloads\OS-L2>MKDIR "SAMSUNG" "APPLE" "SONY" "USERS" "BRAND SPECS"
+
+
+C:\Users\Acer\Downloads\OS-L2>NOTEPAD BHLEZZIE.TXT
+
+
+C:\Users\Acer\Downloads\OS-L2>NOTEPAD FELICITY.TXT
+
+
+C:\Users\Acer\Downloads\OS-L2>NOTEPAD KARL.TXT
+
+
+C:\Users\Acer\Downloads\OS-L2>NOTEPAD DAISYRIE.TXT
+
+
+C:\Users\Acer\Downloads\OS-L2>COPY USERS\BHLEZZIE.TXT USERS\FELICITY.TXT
+Overwrite USERS\FELICITY.TXT? (Yes/No/All): YES
+        1 file(s) copied.
+
+
+C:\Users\Acer\Downloads\OS-L2>COPY USERS\BHLEZZIE.TXT USERS\KARL.TXT
+Overwrite USERS\KARL.TXT? (Yes/No/All): YES
+        1 file(s) copied.
+
+
+C:\Users\Acer\Downloads\OS-L2>COPY USERS\BHLEZZIE.TXT USERS\DAISYRIE.TXT
+Overwrite USERS\DAISYRIE.TXT? (Yes/No/All): YES
+        1 file(s) copied.
+
+
+C:\Users\Acer\Downloads\OS-L2>ECHO SPECS FOR SAMSUNG > SAMSUNG\SAMSUNGSPECS.DOCX
+
+
+C:\Users\Acer\Downloads\OS-L2>ECHO SPECS FOR APPLE > APPLE\APPLESPECS.DOCX
+
+
+C:\Users\Acer\Downloads\OS-L2>ECHO SPECS FOR SONY > SONY\SONYSPECS.DOCX
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE USERS\BHLEZZIE.TXT SAMSUNG\
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE USERS\FELICITY.TXT APPLE\
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE USERS\KARL.TXT SONY\
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE USERS\DAISYRIE.TXT SAMSUNG\
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>MKDIR "BRAND SPECS\SAMSUNG"  "BRAND SPECS\APPLE"  "BRAND SPECS\SONY"
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE SAMSUNG\SAMSUNGSPECS.DOCX "BRAND SPECS\SAMSUNG\"
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE APPLE\APPLESPECS.DOCX "BRAND SPECS\APPLE\"
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>MOVE SONY\SONYSPECS.DOCX "BRAND SPECS\SONY\"
+        1 file(s) moved.
+
+
+C:\Users\Acer\Downloads\OS-L2>
